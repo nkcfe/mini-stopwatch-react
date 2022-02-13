@@ -1,4 +1,4 @@
-import './App.css'
+import './App.css';
 
 function App() {
     return (
@@ -44,7 +44,7 @@ function App() {
                 ©2021 Hanameee Corp. All rights reserved.
             </footer>
         </>
-    )
+    );
 }
 
-export default App
+export default App;
