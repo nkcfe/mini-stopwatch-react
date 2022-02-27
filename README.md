@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-     🐻 미니 사전과제 #2 스톱워치 (React)
+     🐤 미니 사전과제 #2 스톱워치 (React)
   </h1>
   <strong>FastCampus 강의 - <a href="https://fastcampus.co.kr/dev_online_fefinal">30개 프로젝트로 배우는
 프론트엔드 웹 개발 (with React)</a>를 위한 자료입니다.</strong>
